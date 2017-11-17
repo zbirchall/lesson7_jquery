@@ -4,13 +4,14 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Novemeber 17, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Zachary Birchall)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment's purpose is to build an application that displays the elements containing a recipe’s ingredients
+and instructions when a user clicks the associated headers using jquery.)
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
