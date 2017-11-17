@@ -20,7 +20,7 @@
 //displays and animates the next element after the current target
 function display2(event) {
     
-        $(event.currentTarget).next().animate( {height: ‘toggle’}, “slow”);
+        $(event.currentTarget).next().animate( {height: 'toggle'}, "slow");
  
 }//end of display2
 
@@ -35,6 +35,6 @@ $("h3").click(display2);
 });
 
 //hover() will trigger display2 method each time mouse hovers over header
-$(“h3”).hover(display2);
+$("h3").hover(display2);
 
 

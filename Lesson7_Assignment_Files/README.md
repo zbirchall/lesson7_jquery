@@ -14,11 +14,10 @@ Web Application Development
 and instructions when a user clicks the associated headers using jquery.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://zbirchall.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned to access elements using jQuery syntax.)
+2. (I learned to use built-in jQuery syntax.)
+3. (I learned that even though i follow the directions given to me, there are still errors in the drill4.js file and i have no idea why.)
 
